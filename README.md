@@ -1,6 +1,6 @@
-# Node.js Assignment (Serverless)
+# Serverless Nodejs API
 
-Backend implementation for the New10 technical assignment.
+Backend implementation for serverless loan api
 
 ## Prerequisites
 
